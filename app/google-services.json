@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1083451405626",
+    "project_id": "quoteoftheday-4b4d9",
+    "storage_bucket": "quoteoftheday-4b4d9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1083451405626:android:ab3eb93be18b8f57548c03",
+        "android_client_info": {
+          "package_name": "com.example.quoteoftheday"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1083451405626-llt8g79tloqbcgl69ab3qsocfbpdigua.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsHE75okpzfM1XfHW6DN3_3laPgfyzL4U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1083451405626-llt8g79tloqbcgl69ab3qsocfbpdigua.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
